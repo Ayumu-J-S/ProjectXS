@@ -1,2 +1,2 @@
 # ProjectXS
-## Project from CSCI2356 in winter 2021 term
+This is the project from CSCI2356 (Mobile App Development) in winter 2021 term. 
