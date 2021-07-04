@@ -1,0 +1,66 @@
+/* 
+    Author     : Ruksmita
+                 Ayumu J S 
+    Filename   : p2.css
+
+    It is ordered starting with the ThemeRoller introduced classes,
+    user defined classes and the styling for the respective IDs.
+*/
+
+/* ThemeRoller classes section */
+.ui-page,
+.ui-header {
+  background-color: #cedbce;
+}
+
+.u.ui-grid-a,
+.ui-grid-b,
+.ui-grid-c {
+  margin-bottom: 10px;
+}
+
+.ui-slider-input {
+  display: none !important;
+}
+
+/* User defined classes section */
+.solid {
+  color: blue;
+  font-weight: bold;
+}
+
+.shaded {
+  color: grey !important;
+}
+
+.biggerOutput {
+  width: 70px !important;
+  margin-left: 50px;
+}
+
+.smallerOutput {
+  width: 50px !important;
+  margin-left: 50px;
+}
+
+/* Styles directly applied to IDs*/
+#showChapterDiv {
+  margin-top: 55px;
+}
+
+#headerTitle {
+  font-family: "Georgia";
+  font-weight: bold;
+  font-size: 20px;
+  padding: 40px 45px;
+  color: #2200ff;
+}
+
+#plan {
+  background-color: #d8d1d3;
+  margin-bottom: 10px;
+}
+
+#elevation {
+  background-color: #adc4fe;
+}
