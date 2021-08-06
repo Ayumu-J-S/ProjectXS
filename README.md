@@ -7,4 +7,4 @@ GRAPHS dropdown menu and READOUTS dropdown menu are graded out and do not have f
 
 <img src="https://github.com/Ayumu-J-S/ProjectXS/blob/main/images/image3.png" alt="" width="700"/>
 
-You can view the page [here](ayumu-j-s.github.io/projectxs/).
+You can view the page [here](https://ayumu-j-s.github.io/ProjectXS/).
